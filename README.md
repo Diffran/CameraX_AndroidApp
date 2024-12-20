@@ -1,5 +1,5 @@
 # CameraX_AndroidApp
-recorda que he utilitzat el CameraController no el CameraProvider que es el bo. on es pot modificar falsh camara frontal o back etc
+Utilitzant el CameraController
 
 ## EXOPLAYER
 també utlitza l'exoplayer per la reprocduccio dels videos guardats
